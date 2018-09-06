@@ -1,0 +1,22 @@
+# Custom files
+.DS_Store
+dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# Optional eslint cache
+.eslintcache
+
+# Dependency directories
+node_modules/
